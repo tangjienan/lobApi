@@ -1,6 +1,0 @@
-static String apiKey = "AIzaSyDfPLw94YoppvQP8d6vT98O-Y8vCrKNL74";
-static String urlString = "https://www.googleapis.com/civicinfo/v2/representatives";
-
-
-
-Lob.init("test_6ce6d95aace19d98ae5ae5acdd20fb5c853");
