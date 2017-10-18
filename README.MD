@@ -1,0 +1,1 @@
+A java app using reading user input from terminal and use lob api to turn it to a letter and save it to your local machine.
